@@ -1,0 +1,54 @@
+Plan {#463 ▼
+-_propMap: array:10 [▼
+"id" => "P-180237666X787151W7J5JNII"
+"state" => "ACTIVE"
+"name" => "True Number Plan"
+"description" => "Regular Plan"
+"type" => "INFINITE"
+"payment_definitions" => array:2 [▼
+0 => PaymentDefinition {#465 ▼
+-_propMap: array:7 [▼
+"id" => "PD-8KA592185A445045E7J5JNII"
+"name" => "Regular Payment"
+"type" => "REGULAR"
+"frequency" => "Month"
+"amount" => Currency {#466 ▶}
+"cycles" => "0"
+"frequency_interval" => "1"
+]
+}
+1 => PaymentDefinition {#464 ▼
+-_propMap: array:7 [▼
+"id" => "PD-2M7930879E318683E7J5JNII"
+"name" => "3 days Trial"
+"type" => "TRIAL"
+"frequency" => "Day"
+"amount" => Currency {#467 ▶}
+"cycles" => "1"
+"frequency_interval" => "3"
+]
+}
+]
+"merchant_preferences" => MerchantPreferences {#468 ▼
+-_propMap: array:6 [▼
+"setup_fee" => Currency {#469 ▶}
+"max_fail_attempts" => "0"
+"return_url" => "http://reverse.local/billing-success"
+"cancel_url" => "http://reverse.local/billing-cancel"
+"auto_bill_amount" => "YES"
+"initial_fail_amount_action" => "CONTINUE"
+]
+}
+"create_time" => "2019-07-16T11:11:06.401Z"
+"update_time" => "2019-07-16T11:20:15.624Z"
+"links" => array:1 [▼
+0 => Links {#470 ▼
+-_propMap: array:3 [▼
+"href" => "https://api.sandbox.paypal.com/v1/payments/billing-plans/P-180237666X787151W7J5JNII"
+"rel" => "self"
+"method" => "GET"
+]
+}
+]
+]
+}

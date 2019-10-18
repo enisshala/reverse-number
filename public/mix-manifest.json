@@ -1,0 +1,11 @@
+{
+    "/js/backend.js": "/js/backend.js",
+    "/js/back-global.js": "/js/back-global.js",
+    "/js/frontend.js": "/js/frontend.js",
+    "/js/front-global.js": "/js/front-global.js",
+    "/css/frontend.css": "/css/frontend.css",
+    "/css/custom-frontend.css": "/css/custom-frontend.css",
+    "/css/backend.css": "/css/backend.css",
+    "/js/manifest.js": "/js/manifest.js",
+    "/js/vendor.js": "/js/vendor.js"
+}

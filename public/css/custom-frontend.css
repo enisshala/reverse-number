@@ -1,0 +1,187 @@
+/* Custom CSS */
+
+.bg-blue {
+    background-color: #1a3e3b;
+}
+
+.navbar-light .navbar-nav .nav-link, .navbar-light .navbar-brand {
+    color: #fff;
+}
+
+.navbar-light .navbar-brand {
+    font-size: 26px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
+    color: rgb(255, 255, 255);
+}
+
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {
+    color: rgb(193, 183, 183);
+}
+
+div.search-block {
+    padding: 15px 50px;
+    margin-top: 100px;
+}
+
+div.search-block h1 {
+    color: #1a3e3b;
+    font-size: 48px;
+    margin-bottom: 55px;
+    font-weight: bold;
+}
+
+form input#number {
+    font-size: 34px;
+    box-shadow: 0 20px 20px 0 rgba(0, 11, 40, .1);
+}
+
+.btn.btn-primary.btn-search {
+    background-color: #662046;
+    border-color: #662046;
+    font-size: 33px;
+    margin-left: 15px;
+}
+
+.card-body {
+    border-left: 2px solid #6620464f;
+    border-right: 2px solid #6620464f;
+    border-bottom: 2px solid #6620464f;
+}
+
+.card-header {
+    background-color: #662046;
+    border-bottom: none;
+    color: #fff;
+}
+
+.card {
+    border: none;
+}
+
+.btn-info {
+    background-color: #1a3e3b;
+    border-color: #1a3e3b;
+}
+
+div.search-loader {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.search-result {
+    margin-top: 30px;
+    padding: 10px 20px;
+}
+
+.search-result span {
+    font-size: 20px;
+    font-weight: bold;
+    color: #662046;
+}
+
+.search-result p {
+    margin-bottom: 20px;
+    color: #1a3e3b;
+}
+
+span.add-blur {
+    color: transparent !important;
+    text-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+    -webkit-user-select: none; /* Safari */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+}
+
+.unlock-div {
+    text-align: center;
+}
+
+.unlock-div a {
+    margin-top: 30px;
+}
+
+.search-result span.assoc-people, .search-result span.address {
+    font-size: 18px;
+    font-weight: bold;
+    color: #1a3e3b;
+}
+
+footer.page-footer {
+    background-color: #1a3e3b;
+    padding: 30px 0;
+    height: 160px;
+    margin-top: 50px;
+}
+
+footer.page-footer p {
+    color: #fff;
+}
+
+div.footer-copyright {
+    margin-top: 30px;
+}
+
+.info-block h3.second-title, .info-3blocks h3.second-title {
+    color: #1a3e3b;
+    font-size: 26px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.info-block p{
+    font-size: 18px;
+}
+
+.info-block{
+    margin-bottom: 50px;
+}
+
+.info-3blocks, .info-block{
+    margin-top: 65px;
+    margin-bottom: 65px;
+}
+
+.info-3blocks p i{
+    color: #00ff13;
+}
+
+ul.footer-links li a{
+    color: #fff;
+    font-size: 18px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.subscription-body p span {
+    font-weight: bold;
+    color: #1a3e3b;
+}
+
+label.sign-up {
+    font-size: 15px;
+    color: #4c4c4c;
+}
+
+label.sign-up span{
+    font-size: 13px;
+}
+
+div.number-accordion .card {
+    margin-bottom: 15px;
+}
+
+div.number-accordion .card h5 i {
+    float: right;
+}
+
+.page-item.active .page-link {
+    background-color: #1a3e3b;
+    border-color: #1a3e3b;
+}
+
+.page-link {
+    color: #1a3e3b;
+}
