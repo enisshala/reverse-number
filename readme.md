@@ -9,8 +9,7 @@ PaypalSDK is used to subscribe users and use the service on recurring basis
 
 IPStack is used to get user location and use different Twilio api calls for European Users and North American users
 
-Laravel Boilerplace was used as a starter
-
+Laravel Boilerplate was used as a starter
 
 ###Credentials
 
