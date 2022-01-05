@@ -18,7 +18,7 @@
         "divineomega/laravel-password-exposed-validation-rule": "^2.0.1",
         "fideloper/proxy": "^4.0",
         "hieu-le/active": "^3.5",
-        "laravel/framework": "6.20.26",
+        "laravel/framework": "6.20.46",
         "laravel/socialite": "^4.1",
         "laravel/tinker": "^1.0",
         "owen-it/laravel-auditing": "^9.0",
